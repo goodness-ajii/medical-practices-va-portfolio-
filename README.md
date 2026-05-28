@@ -22,7 +22,11 @@ This portfolio kit was built to mirror exactly the workflow described in real me
 
 ## What's Inside
 
-The portfolio contains **11 deliverables** organized into a single Operations Kit. Each is a stand-alone document, but they're designed to work together as a complete front-desk system.
+The portfolio contains the **MedSpa Virtual Receptionist Operations Kit (Items 00–10)** plus two companion sections:
+- **Item 11 — SimplePractice Workflow Screenshots** (visual proof of software fluency)
+- **Item 12 — General Medical VA Companion Sample** (broader healthcare admin range)
+
+Each is a stand-alone document, but they're designed to work together as a complete healthcare VA portfolio.
 
 | # | Deliverable | Purpose | File |
 |---|---|---|---|
@@ -37,6 +41,8 @@ The portfolio contains **11 deliverables** organized into a single Operations Ki
 | 08 | **Voice Demo Script & Guide** | Three demo scripts + recording instructions + delivery rules | [08_Voice_Demo/Voice_Demo_Script_and_Guide.md](./08_Voice_Demo/Voice_Demo_Script_and_Guide.md) |
 | 09 | **Weekly Report Sample** | Sample weekly receptionist report with KPI scorecard and strategic recommendations | [09_Weekly_Report/Weekly_Receptionist_Report.md](./09_Weekly_Report/Weekly_Receptionist_Report.md) |
 | 10 | **Case Study Slide Deck** | 12-slide deck content + visual notes for Canva or Google Slides | [10_Case_Study/Case_Study_Slide_Deck.md](./10_Case_Study/Case_Study_Slide_Deck.md) |
+| 11 | **SimplePractice Workflow Screenshots** | Privacy attestation + workflow demonstration screenshots (in progress) | [11_SimplePractice_Workflow_Screenshots/](./11_SimplePractice_Workflow_Screenshots/) |
+| 12 | **General Medical VA Companion Sample** | Second portfolio sample for general medical / primary care VA roles | [12_General_Medical_VA_Sample/](./12_General_Medical_VA_Sample/) |
 
 ---
 
