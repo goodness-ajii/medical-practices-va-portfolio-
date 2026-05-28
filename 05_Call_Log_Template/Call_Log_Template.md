@@ -1,0 +1,183 @@
+# Call Log Template & Sample Tracker
+
+**Document:** 05 — Call Log Template
+**Practice:** Glow Aesthetics & MedSpa (sample portfolio project)
+**Prepared by:** Goodness Ajii, RN, Certified Medical Virtual Assistant
+**Version:** 1.0
+**Effective Date:** May 2026
+**Platform Reference:** SimplePractice
+
+> **Disclaimer:** All names, phone numbers, and patient details below are fictional and illustrative only. No real patient health information (PHI) is represented in this document.
+
+---
+
+## Purpose
+
+The Call Log is the Virtual Receptionist's central source of truth. Every inbound and outbound call — even brief ones — is documented here within **5 minutes of ending**, in addition to any clinical Progress Note added in SimplePractice.
+
+This document provides:
+
+1. The **column structure** to recreate this tracker as a Google Sheet or Excel workbook
+2. **20 sample log entries** showing how a real working day looks
+3. **Tagging conventions** so the log is easy to filter and report on
+4. A **mini-dashboard** view summarizing daily and weekly KPIs
+
+---
+
+## How to Build This in Google Sheets
+
+1. Create a new Google Sheet called **`Glow Aesthetics — Call Log [Year]`**.
+2. Create the following column headers in **Row 1** (frozen):
+
+| Column | Header | Data Type |
+|---|---|---|
+| A | Date | Date (MM/DD/YYYY) |
+| B | Time | Time (HH:MM AM/PM) |
+| C | Direction | Dropdown: Inbound / Outbound |
+| D | Caller Name | Text |
+| E | Phone | Text (format: (xxx) xxx-xxxx) |
+| F | Patient Type | Dropdown: New / Existing / Vendor / Wrong # / Other |
+| G | Reason | Dropdown: Inquiry / Booking / Reschedule / Cancel / Voicemail / Urgent / Vendor / Other |
+| H | Service of Interest | Dropdown: Botox / Filler / HydraFacial / Microneedling / Laser / Membership / N/A |
+| I | Action Taken | Text |
+| J | Booked? | Dropdown: Y / N / Pending |
+| K | Follow-Up Needed | Dropdown: Y / N |
+| L | Follow-Up Owner | Dropdown: VA / Nurse / Office Mgr / Provider |
+| M | Priority | Dropdown: Routine / High / URGENT |
+| N | Notes | Text (max ~200 chars) |
+| O | Logged By | Text (initials) |
+
+3. Apply **conditional formatting:**
+   - Column M = "URGENT" → row highlights red
+   - Column M = "High" → row highlights yellow
+   - Column J = "Y" → green text
+4. Freeze Row 1 (View → Freeze → 1 row).
+5. Add a **filter** to Row 1 (Data → Create a filter).
+6. Set sharing to **"View only"** with a public link for portfolio sharing.
+
+---
+
+## Sample Call Log — Tuesday, May 26, 2026
+
+The entries below show one realistic shift (8:30 AM – 6:30 PM) for a busy medspa Tuesday. They demonstrate the variety of calls a Virtual Receptionist handles in a single day.
+
+| # | Date | Time | Dir | Caller | Phone | Type | Reason | Service | Action Taken | Booked | Follow-Up | Owner | Priority | Notes | Logged By |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 5/26/26 | 8:42 AM | In | Maria Sanchez | (305) 555-0212 | New | Inquiry | Botox | Explained pricing range, booked complimentary consult Thu 5/28 2:00 PM with Nurse Jamie. Sent intake forms via Client Portal. | Y | N | — | Routine | First-time caller; found us on Instagram. Goal: forehead lines. | GA |
+| 2 | 8:51 AM | 8:51 AM | In | (Voicemail) | (786) 555-0143 | Existing | Voicemail | Filler | VM left at 7:15 PM Mon. Returned call; spoke with patient; rescheduled filler appt from Wed 5/27 → Fri 5/30 11:00 AM. | N | N | — | Routine | Patient had a work conflict. Confirmed via SMS. | GA |
+| 3 | 5/26/26 | 9:08 AM | In | Karen Whitfield | (305) 555-0177 | Existing | Booking | HydraFacial | Verified DOB. Booked Deluxe HydraFacial Sat 5/30 10:30 AM with Maria. Applied Glow VIP membership benefit. | Y | N | — | Routine | Member; rolling over April facial. | GA |
+| 4 | 5/26/26 | 9:24 AM | Out | Jessica Romero | (305) 555-0299 | Existing | Reminder | Botox | 48-hr confirmation call for Thu 5/28 1:00 PM Botox appt. Patient confirmed. | — | N | — | Routine | Patient mentioned she's traveling Sun; advised post-care timing. | GA |
+| 5 | 5/26/26 | 9:47 AM | In | Linda Park | (305) 555-0331 | Existing | Urgent | Filler | Patient reported significant lip swelling + bruising 36 hrs post-filler. Stayed calm, escalated via Slack #urgent + tagged @Jamie. Nurse called patient back at 9:53 AM. | — | Y | Nurse Jamie | URGENT | DOB verified. Patient anxious but airway clear. Logged Progress Note in SimplePractice. | GA |
+| 6 | 5/26/26 | 10:15 AM | In | "Mike from MedSupply" | (800) 555-0102 | Vendor | Vendor | N/A | Took message: rep wants to discuss new filler line. Did not transfer. Forwarded summary email to Kevin EOD. | N | Y | Office Mgr | Routine | Vendor sales call. | GA |
+| 7 | 5/26/26 | 10:33 AM | In | Aaliyah Brooks | (786) 555-0188 | New | Inquiry | Laser | Caller asking about laser hair removal pricing for legs + bikini. Explained 6–8 session series. Booked free consult Sat 5/30 1:00 PM. | Y | N | — | Routine | Found us via Google. Sent intake forms. | GA |
+| 8 | 5/26/26 | 10:58 AM | In | Wrong number | (305) 555-0011 | Wrong # | Other | N/A | Caller asking for "Joe's Pizza." Polite redirect; ended call in 20 sec. | N | N | — | Routine | — | GA |
+| 9 | 5/26/26 | 11:14 AM | Out | Sarah Mendez | (305) 555-0245 | Existing | Voicemail | Microneedling | VM from yesterday returned. No answer. Left HIPAA-compliant VM (callback only, no PHI). | — | Y | VA | Routine | Attempt 1 of 3. | GA |
+| 10 | 5/26/26 | 11:42 AM | In | Tiffany Clark | (305) 555-0356 | Existing | Cancel | HydraFacial | Verified ID. Cancelled Sat 5/30 appt (>24 hrs notice — no fee). Offered to rebook; patient will call back. | N | Y | VA | Routine | Patient's daughter has a recital. Friendly call. | GA |
+| 11 | 5/26/26 | 12:05 PM | In | Anonymous (caller declined name) | (305) 555-0388 | New | Inquiry | Botox | Caller asking general Botox pricing. Did not want to share name. Provided range; sent FAQ link via SMS opt-in. | N | N | — | Routine | Likely shopping around. Polite, professional. | GA |
+| 12 | 5/26/26 | 1:18 PM | Out | Olivia Tran | (786) 555-0421 | Existing | Reminder | Filler | 48-hr confirmation for Wed 5/28 3:00 PM. Confirmed. Reminded re: avoid alcohol/NSAIDs 24 hrs prior. | — | N | — | Routine | Patient asked about lip flip add-on; flagged for Nurse Jamie at appt. | GA |
+| 13 | 5/26/26 | 1:46 PM | In | Rachel Stone | (305) 555-0467 | New | Inquiry | Membership | Asked about Glow Membership vs VIP. Explained both tiers. Sent comparison via email. Will book consult next week. | Pending | Y | VA | Routine | Friend referral from existing patient K. Whitfield. | GA |
+| 14 | 5/26/26 | 2:09 PM | In | Patricia Diaz | (305) 555-0499 | Existing | Booking | Botox | Verified DOB. Booked Botox maintenance Thu 6/12 5:00 PM with Aisha. Sent confirmation. | Y | N | — | Routine | Regular every 12 wks. Birthday treat. | GA |
+| 15 | 5/26/26 | 2:38 PM | In | Heather Lyons | (305) 555-0521 | Existing | Reschedule | Microneedling | Verified ID. Rescheduled microneedling from Fri 5/30 → Tue 6/3 4:00 PM. Same provider. | N | N | — | Routine | Sick this weekend. Waived any fee per policy. | GA |
+| 16 | 5/26/26 | 3:11 PM | In | Carmen Vasquez | (305) 555-0554 | New | Inquiry | Filler | Asked about under-eye filler. Explained provider will assess at consult. Booked Wed 6/4 11:00 AM. | Y | N | — | Routine | First-time caller; sister is patient. | GA |
+| 17 | 5/26/26 | 3:49 PM | In | Dr. Smith's office | (305) 555-0578 | Other | Other | N/A | Referring dermatologist's office calling re: shared patient. Took message; forwarded to Office Mgr. | N | Y | Office Mgr | High | Professional courtesy. Awaiting Kevin's reply. | GA |
+| 18 | 5/26/26 | 4:22 PM | Out | Sarah Mendez | (305) 555-0245 | Existing | Voicemail | Microneedling | Reattempt — answered. Booked microneedling series consult Wed 6/4 2:00 PM. | Y | N | — | Routine | Closed VM loop from entry #9. | GA |
+| 19 | 5/26/26 | 5:03 PM | In | Nicole Greene | (305) 555-0612 | Existing | Booking | Laser | Verified ID. Booked LHR session 4 of 8 for Sat 5/30 11:30 AM. Reminded re: no sun, no shaving 24h prior. | Y | N | — | Routine | Package member. | GA |
+| 20 | 5/26/26 | 5:47 PM | In | Daniel Hayes | (305) 555-0644 | New | Inquiry | Botox | Male caller asking about "Brotox" — forehead + glabellar. Booked complimentary consult Sat 5/30 3:00 PM. | Y | N | — | Routine | Wedding in 6 wks; advised 2-wk settling timeline. | GA |
+
+---
+
+## Daily Summary — May 26, 2026
+
+| Metric | Count |
+|---|---|
+| **Total calls handled** | 20 |
+| Inbound | 16 |
+| Outbound | 4 |
+| **New patient inquiries** | 7 |
+| **Existing patient calls** | 10 |
+| Vendor / wrong # / other | 3 |
+| **Consultations booked** | 8 |
+| **Conversion rate (new caller → booked)** | 6 of 7 = **86%** |
+| **Voicemails returned** | 2 |
+| Avg. voicemail return time | < 25 min |
+| **Reschedules** | 2 |
+| **Cancellations** | 1 (rebookable) |
+| **URGENT escalations** | 1 (handled in 6 min) |
+| **Open follow-ups carried to tomorrow** | 4 |
+
+---
+
+## Tagging & Naming Conventions
+
+To keep the log filterable and reportable, the VA uses these conventions consistently:
+
+### Caller Name
+- **Real name:** "First Last" (e.g., "Maria Sanchez")
+- **Vendor:** Use quotes — "Mike from MedSupply"
+- **Anonymous caller:** "Anonymous (caller declined name)"
+- **Wrong number:** "Wrong number"
+- **Voicemail entries:** prefix caller name with "(VM Returned) " when documenting the return
+
+### Priority Tags
+- **Routine** — standard inquiry, booking, reschedule
+- **High** — referring provider, complaint, billing > $250, time-sensitive admin
+- **URGENT** — adverse reaction, vascular concern, breathing/vision/severe pain → triggers Slack `#urgent`
+
+### Action Taken
+- Always start with a verb: *Booked, Rescheduled, Cancelled, Verified, Escalated, Returned, Sent, Forwarded*
+
+### Notes
+- Stay under ~200 characters in the cell; longer detail belongs in the SimplePractice Progress Note
+- **Never** include sensitive PHI in the Notes column beyond what's necessary for follow-up
+
+---
+
+## Mini-Dashboard (Recommended Second Sheet)
+
+Create a second tab called **`Dashboard`** with these formula-based cells:
+
+| Metric | Formula (Google Sheets) |
+|---|---|
+| Total calls today | `=COUNTIF(Log!A:A, TODAY())` |
+| Total inbound today | `=COUNTIFS(Log!A:A, TODAY(), Log!C:C, "Inbound")` |
+| Total outbound today | `=COUNTIFS(Log!A:A, TODAY(), Log!C:C, "Outbound")` |
+| New inquiries today | `=COUNTIFS(Log!A:A, TODAY(), Log!F:F, "New")` |
+| Bookings today | `=COUNTIFS(Log!A:A, TODAY(), Log!J:J, "Y")` |
+| Conversion rate | `=IFERROR(COUNTIFS(Log!A:A, TODAY(), Log!F:F, "New", Log!J:J, "Y") / COUNTIFS(Log!A:A, TODAY(), Log!F:F, "New"), 0)` |
+| URGENT calls today | `=COUNTIFS(Log!A:A, TODAY(), Log!M:M, "URGENT")` |
+| Open follow-ups | `=COUNTIF(Log!K:K, "Y")` |
+
+Format the Conversion Rate cell as a percentage.
+
+---
+
+## How to Present This in Your Portfolio
+
+**Option 1 — Live Google Sheet (recommended):**
+Share a view-only link to a working Google Sheet. Clients love seeing functioning, formula-driven trackers — it shows you can actually build operational tools, not just describe them.
+
+**Option 2 — Screenshots:**
+Take two clean screenshots:
+1. The full call log with conditional formatting visible (URGENT row highlighted in red)
+2. The Dashboard sheet showing today's KPIs
+
+Embed both in your case study slides (Document 10).
+
+**Talking point for proposals:**
+
+> "I built a working call log template with 16 fields, conditional formatting for urgent calls, and a formula-driven KPI dashboard. Every call is documented within 5 minutes of ending — including a sample shift of 20 calls demonstrating how I handle inquiries, bookings, escalations, and follow-ups. I can adapt this to your existing tracker or build a new one in your preferred tool."
+
+---
+
+## Document Control
+
+| Field | Detail |
+|---|---|
+| **Author** | Goodness Ajii, RN, Virtual Receptionist |
+| **Created** | May 2026 |
+| **Last Reviewed** | May 2026 |
+| **Review Cadence** | Quarterly (column structure) / Daily (entries) |
+
+---
+
+*End of Call Log Template*
