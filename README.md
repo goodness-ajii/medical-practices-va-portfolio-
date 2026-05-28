@@ -210,12 +210,11 @@ When hired by an actual medspa, here's the adaptation timeline I commit to:
 
 ## Contact
 
-📧 **Email:** [your-email@example.com]
-📱 **Phone:** [your-phone]
-🌐 **Portfolio:** [yourportfolio.com]
-🎧 **Voice Demo:** [drive.google.com/yourlink]
-💼 **LinkedIn:** [linkedin.com/in/yourprofile]
-🔗 **Upwork:** [upwork.com/freelancers/yourprofile]
+📧 **Email:** [ajiiprincessgoodness@gmail.com](mailto:ajiiprincessgoodness@gmail.com)
+🌐 **GitHub:** [github.com/goodness-ajii](https://github.com/goodness-ajii)
+💼 **LinkedIn:** [linkedin.com/in/goodness-ajii](https://www.linkedin.com/in/goodness-ajii)
+🔗 **Upwork:** [Goodness Ajii on Upwork](https://www.upwork.com/freelancers/~0127a740e424a99a93)
+🎧 **Voice Demo:** *coming soon*
 
 *Available for medspa, aesthetics, dermatology, and medical practices.*
 
