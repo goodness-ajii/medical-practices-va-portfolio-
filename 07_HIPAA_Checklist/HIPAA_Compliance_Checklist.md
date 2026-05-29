@@ -222,20 +222,6 @@ Before my first shift with a new practice, the following must be complete:
 
 ---
 
-## 12. How to Present This in Your Portfolio
-
-**This document is one of your strongest credibility signals.** Most VA applicants for medspa roles do not produce a HIPAA-specific deliverable. Including this immediately separates you.
-
-**Talking point for proposals:**
-
-> "As a Registered Nurse, I take HIPAA compliance seriously. I built a 100-point self-audit checklist covering my workspace, devices, communications, call handling, voicemail standards, and incident response — all aligned with Business Associate Rule requirements. I'm happy to share my checklist and complete a workspace audit with your HIPAA officer before my first shift."
-
-**Visual deliverable for slides:**
-
-Take a clean screenshot of Section 1 + Section 7 (the voicemail rules) — those two sections are the most visually impressive and easiest for a non-technical client to understand at a glance.
-
----
-
 ## Document Control
 
 | Field | Detail |
