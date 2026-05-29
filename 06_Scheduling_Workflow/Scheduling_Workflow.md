@@ -252,23 +252,10 @@ Send service-specific pre-care via Client Portal at the moment of booking:
 | Chemical Peel | Stop retinol 7 days prior. No recent sun exposure. |
 | HydraFacial | No special prep. Arrive with clean face if possible. |
 
----
-
-## 9. Visual Workflow Diagram (Recommended Tools)
-
-To present this workflow visually in your portfolio, recreate the diagrams above using one of these free tools:
-
-| Tool | Best For | Output |
-|---|---|---|
-| **Whimsical** (whimsical.com) | Clean flowcharts, free tier | PNG/PDF export |
-| **Lucidchart** (free version) | Detailed swim-lane diagrams | PNG/PDF export |
-| **Miro** | Collaborative whiteboards | Embed link |
-| **Canva** | Polished branded version for slides | PDF/PNG |
-| **Mermaid Live Editor** (mermaid.live) | Code-based diagrams | SVG export |
-
-### Mermaid version of master workflow (paste into mermaid.live to render)
+---## 9. Workflow Diagram (Mermaid Format)
 
 ```mermaid
+
 flowchart TD
     A[Incoming Scheduling Call] --> B{What does caller need?}
     B -->|New Booking| C{New or Existing?}
@@ -315,21 +302,6 @@ flowchart TD
 | Late cancellation rate (<24 hrs) | ≤ 8% | SimplePractice cancellation reason codes |
 | Reschedule conversion (rebooked same call) | ≥ 90% | Call log "Booked? = Y" on reschedule entries |
 | 48-hr SMS confirmation completion | 100% | SimplePractice automation report |
-
----
-
-## 11. How to Present This in Your Portfolio
-
-**For a proposal/cover letter:**
-
-> "I built a complete scheduling workflow covering new patient bookings, reschedules, cancellations, and confirmations — including service-specific time blocks, provider booking rules, and a same-day waitlist process. The workflow integrates with SimplePractice's Client Portal and Calendar, ensuring zero double-bookings and full audit trails."
-
-**Visual deliverable for the case study slide deck:**
-
-1. Build the master workflow in **Whimsical** or **Lucidchart**.
-2. Export as PNG.
-3. Drop into your Case Study slides (Document 10) on the "Workflow" slide.
-4. Add a callout: *"Average booking call: 5–8 min | Conversion target: 60% | Zero double-bookings"*
 
 ---
 
