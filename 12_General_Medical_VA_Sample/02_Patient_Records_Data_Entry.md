@@ -146,18 +146,6 @@ Patient ID | Last Name | First Name | DOB | Sex | Phone | Email | Address | Emer
 
 ---
 
-## How This Demonstrates My VA Skills
-
-When clients see this sample, it shows them:
-
-- I understand what fields a real practice tracks
-- I have data hygiene discipline (consistent formats, no missing data)
-- I'm fluent in medical abbreviations (NKDA, A1C, DM2, CHF, MCI, etc.)
-- I think about access control and privacy
-- I can build operational tools, not just describe them
-
----
-
 ## Document Control
 
 | Field | Detail |
@@ -167,6 +155,7 @@ When clients see this sample, it shows them:
 | **Last Reviewed** | May 2026 |
 | **Review Cadence** | Schema reviewed quarterly; entries audited weekly |
 
----
+---Remove self-promotional section from Patient Records doc
+
 
 *End of Patient Records Data Entry Sample*
