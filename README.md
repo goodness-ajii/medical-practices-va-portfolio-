@@ -9,6 +9,8 @@
 > This is a portfolio sample built for a fictional practice. All names, contact details, pricing, and patient data are illustrative only. The frameworks, scripts, and SOPs reflect industry best practices and can be adapted to any real medspa or medical practice.
 
 ---
+| 12 | **General Medical VA Companion Sample** | Second portfolio sample for general medical / primary care VA roles | [12_General_Medical_VA_Sample/](./12_General_Medical_VA_Sample/) |
+| 13 | **Workflow Automation Showcase** | Live Zapier automation: Google Forms → Sheets → Gmail with proven ROI | [13_Workflow_Automation_Showcase/](./13_Workflow_Automation_Showcase/) |
 
 ## About Me
 
@@ -223,7 +225,7 @@ When hired by an actual medspa, here's the adaptation timeline I commit to:
 🎧 **Voice Demo:** *coming soon*
 
 *Available for medspa, aesthetics, dermatology, and medical practices.*
-
+Add Item 13 to portfolio index
 ---
 
 **Goodness Ajii, RN**
