@@ -151,33 +151,4 @@ Format the Conversion Rate cell as a percentage.
 
 ---
 
-## How to Present This in Your Portfolio
-
-**Option 1 — Live Google Sheet (recommended):**
-Share a view-only link to a working Google Sheet. Clients love seeing functioning, formula-driven trackers — it shows you can actually build operational tools, not just describe them.
-
-**Option 2 — Screenshots:**
-Take two clean screenshots:
-1. The full call log with conditional formatting visible (URGENT row highlighted in red)
-2. The Dashboard sheet showing today's KPIs
-
-Embed both in your case study slides (Document 10).
-
-**Talking point for proposals:**
-
-> "I built a working call log template with 16 fields, conditional formatting for urgent calls, and a formula-driven KPI dashboard. Every call is documented within 5 minutes of ending — including a sample shift of 20 calls demonstrating how I handle inquiries, bookings, escalations, and follow-ups. I can adapt this to your existing tracker or build a new one in your preferred tool."
-
----
-
-## Document Control
-
-| Field | Detail |
-|---|---|
-| **Author** | Goodness Ajii, RN, Virtual Receptionist |
-| **Created** | May 2026 |
-| **Last Reviewed** | May 2026 |
-| **Review Cadence** | Quarterly (column structure) / Daily (entries) |
-
----
-
 *End of Call Log Template*
