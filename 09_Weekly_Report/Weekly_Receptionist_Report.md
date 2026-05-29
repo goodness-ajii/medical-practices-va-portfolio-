@@ -196,25 +196,6 @@ Three concrete suggestions for the practice this week:
 
 ---
 
-## How to Present This in Your Portfolio
-
-This document is one of the **highest-value pieces** in your portfolio because it shows clients you don't just *do tasks* — you produce **strategic insight**. Most VAs never offer this level of reporting.
-
-**Talking point for proposals:**
-
-> "I provide my clients with a weekly performance report covering call volume, conversion rates, KPI scorecards, repeated patient questions, and concrete recommendations to improve operations. I see myself as a partner, not just a phone answerer — and the report is how I prove that value every week."
-
-**Visual deliverable for the case study:**
-
-1. Convert this document to a single-page PDF designed in Canva.
-2. Use a clean header with the practice logo + your name.
-3. Include the KPI Scorecard as a visual chart (8/8 green checkmarks).
-4. Add the "Recommendations" box as a highlighted callout.
-
-**Suggested cadence for real clients:** Submit every Sunday by EOD covering Mon–Sun of the prior week.
-
----
-
 ## Document Control
 
 | Field | Detail |
@@ -224,6 +205,7 @@ This document is one of the **highest-value pieces** in your portfolio because i
 | **Reporting Period** | Weekly (Mon–Sun) |
 | **Format** | 1-page PDF for client delivery |
 
----
+---Remove portfolio coaching section from Weekly Report
+
 
 *End of Weekly Receptionist Report*
