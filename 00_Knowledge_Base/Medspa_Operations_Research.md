@@ -375,7 +375,36 @@ Blanching or pain at injection site, drooping eyelid, patient emotional distress
 | **Created** | May 2026 |
 | **Purpose** | Portfolio knowledge base / professional reference guide |
 | **Review Cadence** | Annually, or as industry standards evolve |
+Action: Delete the "What This Document Demonstrates" section
+This section explicitly tells the reader "this is my portfolio sample to prove I can do XYZ" — exactly the meta-commentary that breaks professional polish.
 
----
+Find and delete this complete block:
+---### What This Document Demonstrates
+
+- Ability to accurately describe medspa services to inquiring patients
+- Understanding of typical patient journey and scheduling implications
+- Clinical judgment to recognize when to escalate concerns to providers
+- Comfort using industry-appropriate terminology in phone conversations
+- Professional documentation and note-taking practices
+- Knowledge of pre-care and post-care requirements
+- Understanding of HIPAA and patient confidentiality in aesthetic practices
+- Familiarity with common patient concerns and appropriate responses
+Action 2: Also delete the "How This Applies to Your Practice" section
+This one is borderline (it could read as a service offering), but the bullets address "your practice" as a hypothetical client which feels promotional rather than informational. Cleanest to remove.
+
+Find and delete:
+### How This Applies to Your Practice
+
+When hired as your Virtual Receptionist, I will use this foundational knowledge to:
+
+- Quickly learn your specific treatment offerings, terminology, and protocols
+- Understand your patient demographic and common service inquiries
+- Adopt your practice's specific call scripts, naming conventions, and procedures
+- Accurately explain your services and set appropriate patient expectations
+- Recognize medical concerns that require immediate provider escalation
+- Document patient information professionally and maintain accurate records
+
+This document represents the baseline knowledge I bring to the role. I am ready to learn your practice's specific workflows and adapt to your unique processes.
+
 
 *End of Knowledge Base*
