@@ -155,7 +155,7 @@ Patient ID | Last Name | First Name | DOB | Sex | Phone | Email | Address | Emer
 | **Last Reviewed** | May 2026 |
 | **Review Cadence** | Schema reviewed quarterly; entries audited weekly |
 
----Remove self-promotional section from Patient Records doc
+---
 
 
 *End of Patient Records Data Entry Sample*
