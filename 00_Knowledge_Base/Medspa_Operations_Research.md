@@ -405,6 +405,27 @@ When hired as your Virtual Receptionist, I will use this foundational knowledge 
 - Document patient information professionally and maintain accurate records
 
 This document represents the baseline knowledge I bring to the role. I am ready to learn your practice's specific workflows and adapt to your unique processes.
+🆘 Additional Cleanup 2: File 06_Scheduling_Workflow/Scheduling_Workflow.md
+You'll already be in this file deleting Section 11. While you're there, also clean Section 9.
 
+Action: Replace "Section 9. Visual Workflow Diagram (Recommended Tools)"
+The section currently tells YOU which tools to use to recreate diagrams for your portfolio. Replace the entire block (including the table of recommended tools) with a clean intro to the Mermaid diagram that follows.
+
+Find and delete this:
+## 9. Visual Workflow Diagram (Recommended Tools)
+
+To present this workflow visually in your portfolio, recreate the diagrams above using one of these free tools:
+
+| Tool | Best For | Output |
+|---|---|---|
+| **Whimsical** (whimsical.com) | Clean flowcharts, free tier | PNG/PDF export |
+| **Lucidchart** (free version) | Detailed swim-lane diagrams | PNG/PDF export |
+| **Miro** | Collaborative whiteboards | Embed link |
+| **Canva** | Polished branded version for slides | PDF/PNG |
+| **Mermaid Live Editor** (mermaid.live) | Code-based diagrams | SVG export |
+
+### Mermaid version of master workflow (paste into mermaid.live to render)
+Replace with this (just two lines):
+## 9. Workflow Diagram (Mermaid Format)
 
 *End of Knowledge Base*
