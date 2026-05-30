@@ -25,9 +25,6 @@
 10. Red Flags & Escalation
 11. SimplePractice Terminology Guide
 12. Quick Reference Script Flow
-13. Training Notes for Portfolio Use
-
----
 
 ## 1. Purpose & How to Use This Document
 
@@ -437,28 +434,6 @@ A printable one-page flow for your workstation.
 5. If severe → instruct 911 / ER
 6. Document URGENT flag in Call Log + SimplePractice
 ```
-
----
-
-## 13. Training Notes for Portfolio Use
-
-This script set demonstrates that the Virtual Receptionist can:
-
-- Answer calls professionally and on-brand
-- Convert inquiries into booked consultations
-- Support scheduling, rescheduling, and rebooking
-- Communicate clearly and compassionately after treatment
-- Recognize urgent medical concerns and escalate appropriately
-- Use practice software language (SimplePractice) confidently
-- Handle objections without being pushy
-- Document every interaction for continuity of care
-
-### 13.1 How to Present This Document to Clients
-
-When sharing in a proposal or interview:
-
-> "I built a complete script library covering the seven most common medspa call types — from initial inquiry to post-treatment follow-up — including objection handling, HIPAA-compliant voicemail templates, and an escalation protocol for adverse reactions. Each script is paired with a framework so it can be adapted to your specific tone and services."
-
 ---
 
 ## Appendix A — Master Script Index
@@ -489,27 +464,5 @@ When sharing in a proposal or interview:
 ---
 
 *End of Call Scripts & Frameworks*
-Action 1: Remove this from the Table of Contents (line 24)
-Find and delete:
-
-13. Training Notes for Portfolio Use
-Action 2: Remove the entire Section 13
-Find and delete from ## 13. Training Notes for Portfolio Use all the way down through ### 13.1 How to Present This Document to Clients and its quote, stopping at the --- before ## Appendix A.
-
-The block to delete looks like:
-
-## 13. Training Notes for Portfolio Use
-
-This script set demonstrates that the Virtual Receptionist can:
-
-- Answer calls professionally and on-brand
-[...]
-- Document every interaction for continuity of care
-
-### 13.1 How to Present This Document to Clients
-
-When sharing in a proposal or interview:
-
-> "I built a complete script library covering the seven most common medspa call types — from initial inquiry to post-treatment follow-up — including objection handling, HIPAA-compliant voicemail templates, and an escalation protocol for adverse reactions. Each script is paired with a framework so it can be adapted to your specific tone and services."
 
 ---
