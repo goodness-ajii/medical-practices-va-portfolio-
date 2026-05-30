@@ -99,4 +99,3 @@ When engaged by an actual practice, I follow this onboarding model:
 
 **Goodness Ajii, RN**
 *Certified Medical Virtual Assistant*
-Clean README — remove internal coaching content
