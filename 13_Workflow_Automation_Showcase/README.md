@@ -171,20 +171,6 @@ As a Registered Nurse, I scope automations carefully: PHI-touching workflows go 
 
 ---
 
-## What This Demonstrates About Me
-
-Most virtual assistants list "Microsoft Office" as their software skill. **I list Zapier and build live automations.**
-
-This portfolio piece shows:
-
-- 🛠️ **I can build, not just describe.** This is a deployed, running system.
-- 💰 **I think in ROI.** I quantify what I save my clients in concrete hours.
-- 🔒 **I think in HIPAA terms.** I scope automations responsibly.
-- 🧠 **I bring multi-disciplinary value.** Medical VA + technical automation specialist.
-- 📈 **I help practices grow, not just survive.**
-
----
-
 ## Want to Deploy This for Your Practice?
 
 If your medspa, dermatology office, family practice, or general medical office is drowning in manual form-handling, I'd love to discuss:
@@ -216,7 +202,5 @@ Together, these answer: *"Can this person handle every part of my front desk and
 | **Created** | May 2026 |
 | **Live Build Date** | May 18, 2026 |
 | **Last Reviewed** | May 2026 |
-Add Item 13: Workflow Automation Showcase
----
 
 *Return to [main portfolio README](../README.md)*
