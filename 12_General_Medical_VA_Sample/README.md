@@ -55,29 +55,6 @@ The two together demonstrate that I can serve:
 
 ---
 
-## Why I Built This as a Separate Sample
-
-The Upwork market for healthcare VA roles is split into two main streams:
-
-- **Specialty practices** (medspa, dermatology, cosmetic) — value niche expertise
-- **General medical practices** (family med, internal med, primary care, telehealth) — value broad admin skill + medical terminology
-
-Having dedicated samples for both positions me as **a credible candidate for either stream** without overcommitting to a single niche.
-
----
-
-## Suggested Reading Order for Reviewers
-
-If you're a prospective client reviewing this companion sample, I recommend:
-
-1. **Start with [01 Practice Profile](./01_Practice_Profile.md)** to understand the context
-2. **Read [03 Email Templates Library](./03_Email_Templates_Library.md)** — this is the most demonstrative of communication skill
-3. **Skim [05 Medical Terminology Reference](./05_Medical_Terminology_Reference.md)** to verify clinical fluency
-4. **Review [06 Daily Admin Workflow SOP](./06_Daily_Admin_Workflow_SOP.md)** to see how I structure work
-5. **Open [02 Patient Records](./02_Patient_Records_Data_Entry.md)** and [04 Appointment Tracker](./04_Appointment_Scheduling_Tracker.md) to see operational tools
-
----
-
 ## Disclaimers
 
 - **Sunrise Family Medicine & Wellness is a fictional practice.** All names, addresses, contact info, patient data, and medical details are illustrative only.
