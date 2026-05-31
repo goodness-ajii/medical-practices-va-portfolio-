@@ -351,57 +351,5 @@ Blanching or pain at injection site, drooping eyelid, patient emotional distress
 | **Created** | May 2026 |
 | **Purpose** | Portfolio knowledge base / professional reference guide |
 | **Review Cadence** | Annually, or as industry standards evolve |
-Action: Delete the "What This Document Demonstrates" section
-This section explicitly tells the reader "this is my portfolio sample to prove I can do XYZ" — exactly the meta-commentary that breaks professional polish.
-
-Find and delete this complete block:
----### What This Document Demonstrates
-
-- Ability to accurately describe medspa services to inquiring patients
-- Understanding of typical patient journey and scheduling implications
-- Clinical judgment to recognize when to escalate concerns to providers
-- Comfort using industry-appropriate terminology in phone conversations
-- Professional documentation and note-taking practices
-- Knowledge of pre-care and post-care requirements
-- Understanding of HIPAA and patient confidentiality in aesthetic practices
-- Familiarity with common patient concerns and appropriate responses
-Action 2: Also delete the "How This Applies to Your Practice" section
-This one is borderline (it could read as a service offering), but the bullets address "your practice" as a hypothetical client which feels promotional rather than informational. Cleanest to remove.
-
-Find and delete:
-### How This Applies to Your Practice
-
-When hired as your Virtual Receptionist, I will use this foundational knowledge to:
-
-- Quickly learn your specific treatment offerings, terminology, and protocols
-- Understand your patient demographic and common service inquiries
-- Adopt your practice's specific call scripts, naming conventions, and procedures
-- Accurately explain your services and set appropriate patient expectations
-- Recognize medical concerns that require immediate provider escalation
-- Document patient information professionally and maintain accurate records
-
-This document represents the baseline knowledge I bring to the role. I am ready to learn your practice's specific workflows and adapt to your unique processes.
-🆘 Additional Cleanup 2: File 06_Scheduling_Workflow/Scheduling_Workflow.md
-You'll already be in this file deleting Section 11. While you're there, also clean Section 9.
-
-Action: Replace "Section 9. Visual Workflow Diagram (Recommended Tools)"
-The section currently tells YOU which tools to use to recreate diagrams for your portfolio. Replace the entire block (including the table of recommended tools) with a clean intro to the Mermaid diagram that follows.
-
-Find and delete this:
-## 9. Visual Workflow Diagram (Recommended Tools)
-
-To present this workflow visually in your portfolio, recreate the diagrams above using one of these free tools:
-
-| Tool | Best For | Output |
-|---|---|---|
-| **Whimsical** (whimsical.com) | Clean flowcharts, free tier | PNG/PDF export |
-| **Lucidchart** (free version) | Detailed swim-lane diagrams | PNG/PDF export |
-| **Miro** | Collaborative whiteboards | Embed link |
-| **Canva** | Polished branded version for slides | PDF/PNG |
-| **Mermaid Live Editor** (mermaid.live) | Code-based diagrams | SVG export |
-
-### Mermaid version of master workflow (paste into mermaid.live to render)
-Replace with this (just two lines):
-## 9. Workflow Diagram (Mermaid Format)
 
 *End of Knowledge Base*
