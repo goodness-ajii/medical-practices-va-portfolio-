@@ -5,17 +5,15 @@
 **Date:** May 2026
 **Total Screenshots:** 33 across 10 workflow sections
 
-> **Privacy First:** All 33 screenshots in this folder were captured from my own SimplePractice training/free-trial environment. No real Protected Health Information (PHI) is shown. See the [Privacy & Redaction Log](./REDACTION_LOG.md) for my full attestation.
+> **Privacy First:** All 33 screenshots in this folder were captured from my own SimplePractice training/free-trial environment. No real Protected Health Information (PHI) is shown. See the [Privacy & Redaction Log](./REDACTION_LOG.md) for the full attestation.
 
 ---
 
 ## Why This Section Exists
 
-Most virtual assistants **claim** software proficiency on their resume. This section provides **visual proof** — 33 captured screens demonstrating that I can navigate, configure, and operate SimplePractice end-to-end as a Medical Virtual Assistant.
+This section provides visual proof of end-to-end SimplePractice fluency — 33 captured screens spanning practice setup, scheduling, client management, documentation, billing, communication, online booking, and mobile-app workflows.
 
-For a hiring practice, the difference matters: a VA who has never opened SimplePractice may take weeks to become productive. A VA who can navigate the full workflow on day one saves the practice training time, reduces documentation errors, and maintains continuity for patients.
-
-The screenshots below walk through the complete operational workflow a Medical Virtual Assistant uses inside SimplePractice — from initial practice setup through daily patient operations and mobile-app fluency.
+The screenshots walk through the complete operational workflow a Medical Virtual Assistant uses inside SimplePractice — from initial practice setup through daily patient operations.
 
 ---
 
@@ -32,10 +30,10 @@ Click into any subfolder to view the screenshots demonstrating that part of the 
 
 The bedrock of every practice. These screens show the appointment request widget, practice details configuration, and Client Portal permissions enabling online booking.
 
-**What this proves:**
-- I can configure a practice from scratch
-- I understand the link between Client Portal settings and online booking flow
-- I know which permissions enable patient self-service
+**What this section covers:**
+- Practice configuration from scratch
+- The link between Client Portal settings and online booking flow
+- The permissions that enable patient self-service
 
 ---
 
@@ -44,10 +42,10 @@ The bedrock of every practice. These screens show the appointment request widget
 
 Provider availability, time-off blocks, individual availability blocks, full availability schedules, and day/week calendar views.
 
-**What this proves:**
-- I can manage provider schedules at multiple levels of granularity
-- I understand how to block off time and prevent conflicts
-- I'm comfortable navigating between calendar views
+**What this section covers:**
+- Provider schedule management at multiple granularity levels
+- Time-blocking and conflict prevention
+- Calendar view navigation across day and week views
 
 ---
 
@@ -56,10 +54,10 @@ Provider availability, time-off blocks, individual availability blocks, full ava
 
 Client contact information forms, Client Portal contact form, Client Portal landing page, Client Portal view, client bio-data page, and full Client Profile management.
 
-**What this proves:**
-- I can create and update patient records cleanly
-- I understand the difference between staff-facing and patient-facing views
-- I'm fluent in the Client Portal experience as both admin and patient-side preview
+**What this section covers:**
+- Patient record creation and updates
+- The difference between staff-facing and patient-facing views
+- Client Portal navigation from both admin and patient sides
 
 ---
 
@@ -68,10 +66,10 @@ Client contact information forms, Client Portal contact form, Client Portal land
 
 Configuring laser, microdermabrasion, Botox, fillers, and full medspa services for online booking, plus the comprehensive Services & Products list view.
 
-**What this proves:**
-- I can configure individual services for online appointment requests
-- I understand new-client vs. returning-client booking distinctions
-- I can manage a full service catalog (real medspa-relevant services)
+**What this section covers:**
+- Individual service configuration for online appointment requests
+- New-client vs. returning-client booking distinctions
+- Full service catalog management
 
 ---
 
@@ -80,10 +78,10 @@ Configuring laser, microdermabrasion, Botox, fillers, and full medspa services f
 
 Note content structure and aftercare notes documentation.
 
-**What this proves:**
-- I can navigate chart documentation appropriately
-- I understand the line between admin notes and clinical notes
-- I respect provider scope (clinical content stays with the provider)
+**What this section covers:**
+- Chart documentation navigation
+- The line between admin notes and clinical notes
+- Provider scope boundaries (clinical content remains provider-only)
 
 ---
 
@@ -92,9 +90,9 @@ Note content structure and aftercare notes documentation.
 
 Invoice draft creation and payment settings configuration.
 
-**What this proves:**
-- I can generate and review invoices
-- I understand payment configuration without overstepping into financial decisions
+**What this section covers:**
+- Invoice generation and review
+- Payment configuration within VA scope
 
 ---
 
@@ -103,9 +101,9 @@ Invoice draft creation and payment settings configuration.
 
 Secure messaging interface and telehealth appointment link generation.
 
-**What this proves:**
-- I can send HIPAA-compliant secure messages
-- I can configure and share telehealth links for virtual visits
+**What this section covers:**
+- HIPAA-compliant secure messaging
+- Telehealth link configuration and sharing
 
 ---
 
@@ -114,10 +112,10 @@ Secure messaging interface and telehealth appointment link generation.
 
 Booking link preview (the patient's first impression), available time slots view, and the confirmation email patients receive.
 
-**What this proves:**
-- I can review and verify the patient-side booking experience
-- I understand the full booking funnel from link → slot selection → confirmation
-- I can spot friction points before patients do
+**What this section covers:**
+- Patient-side booking experience review
+- The full booking funnel from link to slot selection to confirmation
+- Friction-point identification
 
 ---
 
@@ -126,9 +124,9 @@ Booking link preview (the patient's first impression), available time slots view
 
 Prescreener configuration and the inquiries page where pre-screened leads appear.
 
-**What this proves:**
-- I can configure pre-screening forms to capture critical info before booking
-- I know how to triage incoming inquiries from the prescreener pipeline
+**What this section covers:**
+- Pre-screening form configuration
+- Inquiry triage from the prescreener pipeline
 
 ---
 
@@ -137,25 +135,23 @@ Prescreener configuration and the inquiries page where pre-screened leads appear
 
 Mobile calendar view and mobile Client Profile view.
 
-**What this proves:**
-- I can stay productive away from a desktop workstation
-- I maintain the same data hygiene standards on mobile as on desktop
-- I can support a practice during travel, after hours, and during emergencies without missing a beat
+**What this section covers:**
+- Productivity away from desktop
+- Data hygiene parity between mobile and desktop
+- Practice support during travel, after-hours, and emergencies
 
 ---
 
 ## Why This Workflow Order Matters
 
-These 10 sections are intentionally ordered from **foundation → operations → mobile flexibility**. This mirrors the actual onboarding sequence I would follow with a new client:
+These 10 sections are intentionally ordered from **foundation → operations → mobile flexibility**. This mirrors the natural onboarding sequence for any practice:
 
-| Phase | Sections | What I'd Do |
+| Phase | Sections | Focus |
 |---|---|---|
-| **Onboarding (Days 1–3)** | 1 Practice Setup, 2 Availability, 4 Services | Confirm I understand the practice's structure |
-| **Foundational mastery (Days 4–7)** | 3 Clients, 5 Notes, 6 Billing | Get fluent with patient records |
-| **Daily ops (Week 2+)** | 7 Communication, 8 Booking, 9 Prescreener | Run the live operational workflow |
-| **Flexibility (Ongoing)** | 10 Mobile | Stay productive anywhere, anytime |
-
-A practice that hires me can expect this same logical progression in our first weeks together.
+| **Onboarding (Days 1–3)** | 1 Practice Setup, 2 Availability, 4 Services | Confirming practice structure |
+| **Foundational mastery (Days 4–7)** | 3 Clients, 5 Notes, 6 Billing | Patient record fluency |
+| **Daily ops (Week 2+)** | 7 Communication, 8 Booking, 9 Prescreener | Live operational workflow |
+| **Flexibility (Ongoing)** | 10 Mobile | Productivity anywhere, anytime |
 
 ---
 
@@ -206,35 +202,6 @@ All 33 screenshots in this folder were:
 - **Redacted** where any identifying information appeared (see [REDACTION_LOG.md](./REDACTION_LOG.md))
 
 If you believe any image contains real personal data that should not be public, please contact me at [ajiiprincessgoodness@gmail.com](mailto:ajiiprincessgoodness@gmail.com) and the image will be reviewed and removed within 24 hours.
-
----
-
-## How This Fits the Larger Portfolio
-
-This visual demonstration complements the written deliverables in the rest of the portfolio:
-
-- **Written SOPs** ([Item 02](../02_Call_Handling_SOP/)) describe my call/admin processes
-- **Call Scripts** ([Item 03](../03_Call_Scripts/)) show my communication style
-- **HIPAA Checklist** ([Item 07](../07_HIPAA_Checklist/)) shows my privacy discipline
-- **This section (Item 11)** proves I can actually *operate* the software where it all happens
-
-Together, they answer the practice owner's three core hiring questions:
-
-1. **Does this person know the work?** → SOPs and scripts (yes)
-2. **Does this person take privacy seriously?** → HIPAA checklist + redaction log (yes)
-3. **Can this person actually use my software on day one?** → **This section, with 33 screens of proof (yes)**
-
----
-
-## Document Control
-
-| Field | Detail |
-|---|---|
-| **Author** | Goodness Ajii, RN, Certified Medical Virtual Assistant |
-| **Created** | May 2026 |
-| **Last Reviewed** | May 2026 |
-| **Total Files** | 33 screenshots + this README + Redaction Log |
-| **Review Cadence** | Updated when SimplePractice releases major UI changes |
 
 ---
 
