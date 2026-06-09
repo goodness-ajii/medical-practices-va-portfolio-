@@ -68,7 +68,7 @@ When engaged by an actual practice, I follow this onboarding model:
 | **Documentation** | SOAP-style notes; structured call logs; consistent data hygiene |
 | **HIPAA compliance** | 100-point self-audit; voicemail compliance; incident response |
 | **Operations** | SOP writing; workflow design; KPI tracking; weekly reporting |
-| **Workflow automation | Zapier · n8n · Airtable automations — conditional routing, cross-table triggers, form-to-email pipelines (Certificate in AI Automation, DV Digital Academy)**
+| **Workflow automation** | Zapier · n8n · Airtable automations — conditional routing, cross-table triggers, form-to-email pipelines (Certificate in AI Automation, DV Digital Academy)
 | **Tools** | Google Workspace, Slack, RingCentral, Zoom, Canva, Notion, Whimsical |
 
 ---
