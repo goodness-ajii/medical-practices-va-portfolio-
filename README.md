@@ -11,10 +11,7 @@
 
 ## About Me
 
-Registered Nephrology Nurse with 10 years of clinical experience and Certified Medical Virtual Assistant. I specialize in front-desk operations for aesthetics, medspa, and medical practices.
-
-My approach combines clinical judgment from my nursing background, operational rigor in HIPAA and documentation, and warm patient communication.
-
+Registered Nephrology Nurse with 10 years of clinical experience, Certified Medical Virtual Assistant, and AI Automation practitioner (Certificate in AI Automation, DV Digital Academy, May 2026). I specialize in front-desk operations, workflow automation, and administrative systems for aesthetics, medspa, and medical practices.
 ---
 
 ## What's Inside
@@ -71,7 +68,7 @@ When engaged by an actual practice, I follow this onboarding model:
 | **Documentation** | SOAP-style notes; structured call logs; consistent data hygiene |
 | **HIPAA compliance** | 100-point self-audit; voicemail compliance; incident response |
 | **Operations** | SOP writing; workflow design; KPI tracking; weekly reporting |
-| **Workflow automation** | Zapier (Forms, Sheets, Gmail integrations) |
+| **Workflow automation | Zapier · n8n · Airtable automations — conditional routing, cross-table triggers, form-to-email pipelines (Certificate in AI Automation, DV Digital Academy)**
 | **Tools** | Google Workspace, Slack, RingCentral, Zoom, Canva, Notion, Whimsical |
 
 ---
