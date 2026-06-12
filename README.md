@@ -47,33 +47,7 @@ Tools: n8n, Airtable
 Business Goal:
 Automate applicant intake and eligibility screening for workforce development enrollment programs.
 
-Workflow Logic:
-
-
-Form Submission
-      │
-      ▼
-
-
-
-      
-Eligibility Check
-      │
- ┌────┴────┐
- │         │
- ▼         ▼
-
-
- 
-Eligible   Not Eligible
- │         │
- ▼         ▼
-
-
- 
-WIOA Table Standard Enrollment Table
-
-What It Does
+**What It Does**
 
 Captures applicant submissions
 Evaluates eligibility criteria automatically
