@@ -33,7 +33,7 @@ A complete operational system for a medspa front desk, organized as 13 deliverab
 | 10 | **Case Study Slide Deck** | 12-slide overview of the operations kit | [10_Case_Study/Case_Study_Slide_Deck.md](./10_Case_Study/Case_Study_Slide_Deck.md) |
 | 11 | **SimplePractice Workflow** | 33 screenshots demonstrating end-to-end SimplePractice fluency, with privacy attestation | [11_SimplePractice_Workflow_Screenshots/](./11_SimplePractice_Workflow_Screenshots/) |
 | 12 | **General Medical VA Sample** | Companion portfolio for primary care, family medicine, and general practice roles | [12_General_Medical_VA_Sample/](./12_General_Medical_VA_Sample/) |
-| 13 | Workflow Automation Showcase | Portfolio of workflow automations built using Zapier, n8n, Airtable, and AI-powered business processes. Includes conditional routing, lead qualification, patient intake workflows, CRM updates, automated notifications, and successful execution logs. | 13_Workflow_Automation_Showcase |
+| 13 | **[Workflow Automation Showcase](./13_Workflow_Automation_Showcase/)** | Live automation builds across Zapier, n8n, Airtable, and AI-powered business processes. Includes conditional routing, intake automation, lead qualification workflows, and verified successful workflow executions. | View Project |
 ---
 Workflow Automation Portfolio
 
