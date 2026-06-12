@@ -1,4 +1,4 @@
-# MedSpa Virtual Receptionist — Operations Kit
+# Medical Virtual Assistant & Workflow Automation Portfolio
 
 **Prepared by:** Goodness Ajii, RN, Certified Medical Virtual Assistant
 **Sample Practice:** Glow Aesthetics & MedSpa (fictional)
@@ -33,8 +33,54 @@ A complete operational system for a medspa front desk, organized as 13 deliverab
 | 10 | **Case Study Slide Deck** | 12-slide overview of the operations kit | [10_Case_Study/Case_Study_Slide_Deck.md](./10_Case_Study/Case_Study_Slide_Deck.md) |
 | 11 | **SimplePractice Workflow** | 33 screenshots demonstrating end-to-end SimplePractice fluency, with privacy attestation | [11_SimplePractice_Workflow_Screenshots/](./11_SimplePractice_Workflow_Screenshots/) |
 | 12 | **General Medical VA Sample** | Companion portfolio for primary care, family medicine, and general practice roles | [12_General_Medical_VA_Sample/](./12_General_Medical_VA_Sample/) |
-| 13 | **Workflow Automation Showcase** | Live automation builds across Zapier, n8n, and Airtable — with verified successful runs and conditional workflow logic |[ 13_Workflow_Automation_Showcase](https://github.com/goodness-ajii/medspa-va-portfolio/tree/main/13_Workflow_Automation_Showcase)
+| 13 | Workflow Automation Showcase | Portfolio of workflow automations built using Zapier, n8n, Airtable, and AI-powered business processes. Includes conditional routing, lead qualification, patient intake workflows, CRM updates, automated notifications, and successful execution logs. | 13_Workflow_Automation_Showcase |
 ---
+Workflow Automation Portfolio
+
+In addition to front-desk and medical virtual assistant operations, I design workflow automations that reduce administrative workload, improve response times, and create scalable business systems.
+
+**Featured Automation Projects**
+1. HerWay WIOA Eligibility Screening Workflow
+
+Tools: n8n, Airtable
+
+Business Goal:
+Automate applicant intake and eligibility screening for workforce development enrollment programs.
+
+Workflow Logic:
+Form Submission
+      │
+      ▼
+Eligibility Check
+      │
+ ┌────┴────┐
+ │         │
+ ▼         ▼
+Eligible   Not Eligible
+ │         │
+ ▼         ▼
+WIOA Table Standard Enrollment Table
+
+What It Does
+
+Captures applicant submissions
+Evaluates eligibility criteria automatically
+Routes records using conditional logic
+Creates records in the correct Airtable database
+Eliminates manual sorting and data entry
+
+**Skills Demonstrated**
+
+Workflow Automation
+Conditional Logic
+Airtable Database Management
+Process Optimization
+Business Operations Automation
+No-Code Development
+
+**Outcome**
+
+Reduced manual screening effort while improving data accuracy and enrollment workflow efficiency.
 
 ## How I Adapt This for Your Practice
 
@@ -68,7 +114,7 @@ When engaged by an actual practice, I follow this onboarding model:
 | **Documentation** | SOAP-style notes; structured call logs; consistent data hygiene |
 | **HIPAA compliance** | 100-point self-audit; voicemail compliance; incident response |
 | **Operations** | SOP writing; workflow design; KPI tracking; weekly reporting |
-| **Workflow automation** | Zapier · n8n · Airtable automations — conditional routing, cross-table triggers, form-to-email pipelines (Certificate in AI Automation, DV Digital Academy)
+Workflow automation | Zapier · n8n · Airtable · AI-powered business systems, lead qualification workflows, conditional routing, intake automation, cross-table triggers, CRM updates, notification systems, and process optimization (Certificate in AI Automation, DV Digital Academy)
 | **Tools** | Google Workspace, Slack, RingCentral, Zoom, Canva, Notion, Whimsical |
 
 ---
