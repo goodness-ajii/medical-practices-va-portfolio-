@@ -56,9 +56,11 @@ Eligibility Check
  ┌────┴────┐
  │         │
  ▼         ▼
+ 
 Eligible   Not Eligible
  │         │
  ▼         ▼
+ 
 WIOA Table Standard Enrollment Table
 
 What It Does
