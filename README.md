@@ -5,18 +5,18 @@
 **Platform Reference:** SimplePractice
 **Date:** May 2026
 
-> Portfolio sample built for a fictional practice. All names, contact details, pricing, and patient data are illustrative. The frameworks, scripts, and SOPs reflect industry best practices and can be adapted to any real medspa or medical practice.
+> Portfolio sample built for a sample practice. All names, contact details, pricing, and patient data are illustrative. The frameworks, scripts, and SOPs reflect industry best practices and can be adapted to any real medspa or medical practice.
 
 ---
 
 ## About Me
 
-Registered Nephrology Nurse with 10 years of clinical experience, Certified Medical Virtual Assistant, and AI Automation practitioner (Certificate in AI Automation, DV Digital Academy, May 2026). I specialize in front-desk operations, workflow automation, and administrative systems for aesthetics, medspa, and medical practices.
+Registered Nephrology Nurse with 10 years of clinical experience, Certified Medical Virtual Assistant, and AI Automation practitioner. I specialize in front-desk operations, workflow automation, and administrative systems for medspa, and medical practices.
 ---
 
 ## What's Inside
 
-A complete operational system for a medspa front desk, organized as 13 deliverables across written documentation, visual proofs, and live system demonstrations.
+A complete operational system for a medical practice front desk, organized as 13 deliverables across written documentation, visual proofs, and live system demonstrations.
 
 | # | Deliverable | Purpose | File |
 |---|---|---|---|
@@ -37,7 +37,7 @@ A complete operational system for a medspa front desk, organized as 13 deliverab
 ---
 Workflow Automation Portfolio
 
-In addition to front-desk and medical virtual assistant operations, I design workflow automations that reduce administrative workload, improve response times, and create scalable business systems.
+In addition to operational front-desk and medical virtual assistant operations, I design workflow automations that reduce administrative workload, improve response times, and create scalable business systems.
 
 **Featured Automation Projects**
 1. HerWay WIOA Eligibility Screening Workflow
@@ -100,7 +100,7 @@ When engaged by an actual practice, I follow this onboarding model:
 | **Documentation** | SOAP-style notes; structured call logs; consistent data hygiene |
 | **HIPAA compliance** | 100-point self-audit; voicemail compliance; incident response |
 | **Operations** | SOP writing; workflow design; KPI tracking; weekly reporting |
-Workflow automation | Zapier · n8n · Airtable · AI-powered business systems, lead qualification workflows, conditional routing, intake automation, cross-table triggers, CRM updates, notification systems, and process optimization (Certificate in AI Automation, DV Digital Academy)
+Workflow automation | Zapier · n8n · Airtable · AI-powered business systems, lead qualification workflows, conditional routing, intake automation, cross-table triggers, CRM updates, notification systems, and process optimization |
 | **Tools** | Google Workspace, Slack, RingCentral, Zoom, Canva, Notion, Whimsical |
 
 ---
@@ -121,7 +121,7 @@ Workflow automation | Zapier · n8n · Airtable · AI-powered business systems, 
 🔗 **Upwork:** [Goodness Ajii on Upwork](https://www.upwork.com/freelancers/~0127a740e424a99a93)
 🎧 **Voice Demo:** *coming soon*
 
-*Available for medspa, aesthetics, dermatology, and medical practices.*
+*Available for medspa, cardiology, nephrology, dermatology, and medical practices.*
 
 ---
 
