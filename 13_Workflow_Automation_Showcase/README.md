@@ -155,10 +155,10 @@ data entry, but structured linked tables with automatic
 data population across records. This is the foundation 
 of any functional CRM or student management system.
 
-## 06 — Zapier: HerWay Student Inquiry — Form to Sheets to Gmail
+## 06 — Zapier: US Based Training Institute Student Inquiry — Form to Sheets to Gmail
 
 Tool: Zapier
-Built specifically for: HerWay Training Institute
+Built specifically for: US Based Training Institute
 Status: Successful — June 12, 2026
 
 What it does:
@@ -182,7 +182,7 @@ Account: Ajii G.
 | n8n | Student registration with conditional program routing | Published |
 | Airtable Automations | Cross-table record creation on trigger | ON |
 | Airtable Database | Relational Products-Orders database with linked fields | Built |
-|  Zapier Automation | HerWay Student Inquiry — Form to Sheets to Gmail | Live - Confirmed Successful Run | ON |
+|  Zapier Automation | US Based Training Institute Student Inquiry — Form to Sheets to Gmail | Live - Confirmed Successful Run | ON |
 ---
 
 ## Note
