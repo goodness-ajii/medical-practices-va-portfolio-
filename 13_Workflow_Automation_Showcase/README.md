@@ -174,6 +174,32 @@ Account: Ajii G.
 
 ---
 
+## 07 — Zapier: Student Follow Up — 2 Day Reminder
+
+Tool: Zapier
+Built as: Sample workflow for a WIOA-approved 
+healthcare career training institute
+Status: Published — June 15, 2026
+
+What it does:
+- Monitors Google Sheets for new student inquiry rows
+- Automatically waits 2 days after inquiry submission
+- Sends a personalized follow up email if student 
+  has not yet enrolled
+- Email includes program details and WIOA funding 
+  eligibility information for eligible Georgia counties
+
+Why it matters:
+Eliminates manual follow up work entirely. Every 
+student who submits an inquiry automatically receives 
+a follow up without any staff intervention — ensuring 
+no potential enrollment is lost due to lack of follow 
+through.
+
+Evidence:
+All three steps confirmed with green checkmarks
+Published by Ajii G. — June 15, 2026
+
 ## Tools Summary
 
 | Tool | Use Case Demonstrated | Status |
