@@ -213,7 +213,5 @@ Published by Ajii G. — June 15, 2026
 
 ## Note
 
-All workflows were built and run by Goodness Ajii as part of 
-her AI Automation certification training (DV Digital Academy, 
-May 2026) and ongoing professional development. Screenshots 
+All workflows were built and run by Goodness Ajii ongoing professional development. Screenshots 
 show live account environments with verified account names.
