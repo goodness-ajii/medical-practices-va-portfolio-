@@ -24,39 +24,6 @@ This document provides:
 
 ---
 
-## How to Build This in Google Sheets
-
-1. Create a new Google Sheet called **`Glow Aesthetics — Call Log [Year]`**.
-2. Create the following column headers in **Row 1** (frozen):
-
-| Column | Header | Data Type |
-|---|---|---|
-| A | Date | Date (MM/DD/YYYY) |
-| B | Time | Time (HH:MM AM/PM) |
-| C | Direction | Dropdown: Inbound / Outbound |
-| D | Caller Name | Text |
-| E | Phone | Text (format: (xxx) xxx-xxxx) |
-| F | Patient Type | Dropdown: New / Existing / Vendor / Wrong # / Other |
-| G | Reason | Dropdown: Inquiry / Booking / Reschedule / Cancel / Voicemail / Urgent / Vendor / Other |
-| H | Service of Interest | Dropdown: Botox / Filler / HydraFacial / Microneedling / Laser / Membership / N/A |
-| I | Action Taken | Text |
-| J | Booked? | Dropdown: Y / N / Pending |
-| K | Follow-Up Needed | Dropdown: Y / N |
-| L | Follow-Up Owner | Dropdown: VA / Nurse / Office Mgr / Provider |
-| M | Priority | Dropdown: Routine / High / URGENT |
-| N | Notes | Text (max ~200 chars) |
-| O | Logged By | Text (initials) |
-
-3. Apply **conditional formatting:**
-   - Column M = "URGENT" → row highlights red
-   - Column M = "High" → row highlights yellow
-   - Column J = "Y" → green text
-4. Freeze Row 1 (View → Freeze → 1 row).
-5. Add a **filter** to Row 1 (Data → Create a filter).
-6. Set sharing to **"View only"** with a public link for portfolio sharing.
-
----
-
 ## Sample Call Log — Tuesday, May 26, 2026
 
 The entries below show one realistic shift (8:30 AM – 6:30 PM) for a busy medspa Tuesday. They demonstrate the variety of calls a Virtual Receptionist handles in a single day.
