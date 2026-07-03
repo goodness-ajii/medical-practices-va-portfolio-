@@ -28,30 +28,21 @@ This document provides:
 
 The entries below show one realistic shift (8:30 AM – 6:30 PM) for a busy medspa Tuesday. They demonstrate the variety of calls a Virtual Receptionist handles in a single day.
 
-| # | Date | Time | Dir | Caller | Phone | Type | Reason | Service | Action Taken | Booked | Follow-Up | Owner | Priority | Notes | Logged By |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 5/26/26 | 8:42 AM | In | Maria Sanchez | (305) 555-0212 | New | Inquiry | Botox | Explained pricing range, booked complimentary consult Thu 5/28 2:00 PM with Nurse Jamie. Sent intake forms via Client Portal. | Y | N | — | Routine | First-time caller; found us on Instagram. Goal: forehead lines. | GA |
-| 2 | 8:51 AM | 8:51 AM | In | (Voicemail) | (786) 555-0143 | Existing | Voicemail | Filler | VM left at 7:15 PM Mon. Returned call; spoke with patient; rescheduled filler appt from Wed 5/27 → Fri 5/30 11:00 AM. | N | N | — | Routine | Patient had a work conflict. Confirmed via SMS. | GA |
-| 3 | 5/26/26 | 9:08 AM | In | Karen Whitfield | (305) 555-0177 | Existing | Booking | HydraFacial | Verified DOB. Booked Deluxe HydraFacial Sat 5/30 10:30 AM with Maria. Applied Glow VIP membership benefit. | Y | N | — | Routine | Member; rolling over April facial. | GA |
-| 4 | 5/26/26 | 9:24 AM | Out | Jessica Romero | (305) 555-0299 | Existing | Reminder | Botox | 48-hr confirmation call for Thu 5/28 1:00 PM Botox appt. Patient confirmed. | — | N | — | Routine | Patient mentioned she's traveling Sun; advised post-care timing. | GA |
-| 5 | 5/26/26 | 9:47 AM | In | Linda Park | (305) 555-0331 | Existing | Urgent | Filler | Patient reported significant lip swelling + bruising 36 hrs post-filler. Stayed calm, escalated via Slack #urgent + tagged @Jamie. Nurse called patient back at 9:53 AM. | — | Y | Nurse Jamie | URGENT | DOB verified. Patient anxious but airway clear. Logged Progress Note in SimplePractice. | GA |
-| 6 | 5/26/26 | 10:15 AM | In | "Mike from MedSupply" | (800) 555-0102 | Vendor | Vendor | N/A | Took message: rep wants to discuss new filler line. Did not transfer. Forwarded summary email to Kevin EOD. | N | Y | Office Mgr | Routine | Vendor sales call. | GA |
-| 7 | 5/26/26 | 10:33 AM | In | Aaliyah Brooks | (786) 555-0188 | New | Inquiry | Laser | Caller asking about laser hair removal pricing for legs + bikini. Explained 6–8 session series. Booked free consult Sat 5/30 1:00 PM. | Y | N | — | Routine | Found us via Google. Sent intake forms. | GA |
-| 8 | 5/26/26 | 10:58 AM | In | Wrong number | (305) 555-0011 | Wrong # | Other | N/A | Caller asking for "Joe's Pizza." Polite redirect; ended call in 20 sec. | N | N | — | Routine | — | GA |
-| 9 | 5/26/26 | 11:14 AM | Out | Sarah Mendez | (305) 555-0245 | Existing | Voicemail | Microneedling | VM from yesterday returned. No answer. Left HIPAA-compliant VM (callback only, no PHI). | — | Y | VA | Routine | Attempt 1 of 3. | GA |
-| 10 | 5/26/26 | 11:42 AM | In | Tiffany Clark | (305) 555-0356 | Existing | Cancel | HydraFacial | Verified ID. Cancelled Sat 5/30 appt (>24 hrs notice — no fee). Offered to rebook; patient will call back. | N | Y | VA | Routine | Patient's daughter has a recital. Friendly call. | GA |
-| 11 | 5/26/26 | 12:05 PM | In | Anonymous (caller declined name) | (305) 555-0388 | New | Inquiry | Botox | Caller asking general Botox pricing. Did not want to share name. Provided range; sent FAQ link via SMS opt-in. | N | N | — | Routine | Likely shopping around. Polite, professional. | GA |
-| 12 | 5/26/26 | 1:18 PM | Out | Olivia Tran | (786) 555-0421 | Existing | Reminder | Filler | 48-hr confirmation for Wed 5/28 3:00 PM. Confirmed. Reminded re: avoid alcohol/NSAIDs 24 hrs prior. | — | N | — | Routine | Patient asked about lip flip add-on; flagged for Nurse Jamie at appt. | GA |
-| 13 | 5/26/26 | 1:46 PM | In | Rachel Stone | (305) 555-0467 | New | Inquiry | Membership | Asked about Glow Membership vs VIP. Explained both tiers. Sent comparison via email. Will book consult next week. | Pending | Y | VA | Routine | Friend referral from existing patient K. Whitfield. | GA |
-| 14 | 5/26/26 | 2:09 PM | In | Patricia Diaz | (305) 555-0499 | Existing | Booking | Botox | Verified DOB. Booked Botox maintenance Thu 6/12 5:00 PM with Aisha. Sent confirmation. | Y | N | — | Routine | Regular every 12 wks. Birthday treat. | GA |
-| 15 | 5/26/26 | 2:38 PM | In | Heather Lyons | (305) 555-0521 | Existing | Reschedule | Microneedling | Verified ID. Rescheduled microneedling from Fri 5/30 → Tue 6/3 4:00 PM. Same provider. | N | N | — | Routine | Sick this weekend. Waived any fee per policy. | GA |
-| 16 | 5/26/26 | 3:11 PM | In | Carmen Vasquez | (305) 555-0554 | New | Inquiry | Filler | Asked about under-eye filler. Explained provider will assess at consult. Booked Wed 6/4 11:00 AM. | Y | N | — | Routine | First-time caller; sister is patient. | GA |
-| 17 | 5/26/26 | 3:49 PM | In | Dr. Smith's office | (305) 555-0578 | Other | Other | N/A | Referring dermatologist's office calling re: shared patient. Took message; forwarded to Office Mgr. | N | Y | Office Mgr | High | Professional courtesy. Awaiting Kevin's reply. | GA |
-| 18 | 5/26/26 | 4:22 PM | Out | Sarah Mendez | (305) 555-0245 | Existing | Voicemail | Microneedling | Reattempt — answered. Booked microneedling series consult Wed 6/4 2:00 PM. | Y | N | — | Routine | Closed VM loop from entry #9. | GA |
-| 19 | 5/26/26 | 5:03 PM | In | Nicole Greene | (305) 555-0612 | Existing | Booking | Laser | Verified ID. Booked LHR session 4 of 8 for Sat 5/30 11:30 AM. Reminded re: no sun, no shaving 24h prior. | Y | N | — | Routine | Package member. | GA |
-| 20 | 5/26/26 | 5:47 PM | In | Daniel Hayes | (305) 555-0644 | New | Inquiry | Botox | Male caller asking about "Brotox" — forehead + glabellar. Booked complimentary consult Sat 5/30 3:00 PM. | Y | N | — | Routine | Wedding in 6 wks; advised 2-wk settling timeline. | GA |
+View the full spreadsheet version here:
 
----
+[Open Full Call Log Spreadsheet](./Call_Log_Template.csv)
+
+### Preview
+
+| # | Date | Time | Caller | Type | Reason | Service | Action Taken | Booked | Follow-Up | Priority |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 5/26/26 | 8:42 AM | Maria Sanchez | New | Inquiry | Botox | Booked complimentary consult and sent intake forms. | Y | N | Routine |
+| 2 | 5/26/26 | 8:51 AM | Voicemail | Existing | Voicemail | Filler | Returned call and rescheduled filler appointment. | N | N | Routine |
+| 3 | 5/26/26 | 9:08 AM | Karen Whitfield | Existing | Booking | HydraFacial | Verified DOB, booked Deluxe HydraFacial, and applied membership benefit. | Y | N | Routine |
+| 4 | 5/26/26 | 9:24 AM | Jessica Romero | Existing | Reminder | Botox | Completed 48-hour confirmation call. | — | N | Routine |
+| 5 | 5/26/26 | 9:47 AM | Linda Park | Existing | Urgent | Filler | Escalated urgent post-treatment concern to Nurse Jamie. | — | Y | URGENT |
+
+The full spreadsheet includes all 20 call entries, caller details, service type, actions taken, booking status, follow-up ownership, priority level, notes, and logged-by details.
 
 ## Daily Summary — May 26, 2026
 
