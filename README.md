@@ -1,129 +1,227 @@
 # Medical Virtual Assistant & Workflow Automation Portfolio
 
-**Prepared by:** Goodness Ajii, RN, Certified Medical Virtual Assistant
-**Sample Practice:** Glow Aesthetics & MedSpa (fictional)
-**Platform Reference:** SimplePractice
-**Date:** May 2026
+**Prepared by:** Goodness Ajii, RN, Certified Medical Virtual Assistant  
+**Sample Practice:** Glow Aesthetics & MedSpa (fictional)  
+**Platform Reference:** SimplePractice  
+**Date:** May 2026  
 
-> Portfolio sample built for a sample practice. All names, contact details, pricing, and patient data are illustrative. The frameworks, scripts, and SOPs reflect industry best practices and can be adapted to any real medspa or medical practice.
+> Portfolio sample built for a fictional practice. All names, contact details, pricing, and patient data are illustrative. The frameworks, scripts, workflows, and SOPs reflect healthcare administrative best practices and can be adapted to real medical practices.
 
 ---
 
-## About Me
+# About Me
 
-Registered Nephrology Nurse with 10 years of clinical experience, Certified Medical Virtual Assistant, and AI Automation practitioner. I specialize in front-desk operations, workflow automation, and administrative systems for medspa, and medical practices.
+Healthcare professional with clinical nursing experience, Certified Medical Virtual Assistant training, and AI workflow automation skills.
+
+I specialize in supporting medical practices through:
+
+- Patient communication
+- Appointment coordination
+- EHR workflow management
+- Documentation support
+- Lab coordination
+- Medication refill workflows
+- Billing follow-up
+- HIPAA-conscious administrative operations
+- Healthcare workflow automation
+
+My goal is to help healthcare teams improve patient experience, reduce administrative workload, and create reliable operational systems.
+
 ---
 
-## What's Inside
+# What's Inside
 
-A complete operational system for a medical practice front desk, organized as 13 deliverables across written documentation, visual proofs, and live system demonstrations.
+A complete healthcare virtual assistant operational system organized into 15 deliverables covering patient communication, documentation, workflow management, EHR processes, and automation systems.
 
 | # | Deliverable | Purpose | File |
 |---|---|---|---|
-| 00 | **Knowledge Base** | Industry reference covering medspa services, patient journey, pre/post-care, red flags | [00_Knowledge_Base/Medspa_Operations_Research.md](./00_Knowledge_Base/Medspa_Operations_Research.md) |
-| 01 | **Client Profile** | Sample practice context: team, services, software, brand voice, KPIs | [01_Client_Profile/Client_Profile.md](./01_Client_Profile/Client_Profile.md) |
-| 02 | **Call Handling SOP** | Standard operating procedure for every inbound and outbound call | [02_Call_Handling_SOP/Call_Handling_SOP.md](./02_Call_Handling_SOP/Call_Handling_SOP.md) |
-| 03 | **Call Scripts** | 8 word-for-word scripts + objection library + escalation language | [03_Call_Scripts/Call_Scripts.md](./03_Call_Scripts/Call_Scripts.md) |
-| 04 | **Patient FAQ** | 70+ patient questions answered in VA-safe language | [04_Patient_FAQ/Patient_FAQ.md](./04_Patient_FAQ/Patient_FAQ.md) |
-| 05 | **Call Log Template** | Working tracker with 16 fields, conditional formatting, KPI dashboard, 20 sample entries | [05_Call_Log_Template/Call_Log_Template.md](./05_Call_Log_Template/Call_Log_Template.md) |
-| 06 | **Scheduling Workflow** | Visual workflow + service-specific timing + cancellation policy logic | [06_Scheduling_Workflow/Scheduling_Workflow.md](./06_Scheduling_Workflow/Scheduling_Workflow.md) |
-| 07 | **HIPAA Checklist** | 100-point self-audit covering workspace, devices, communication, voicemail, incident response | [07_HIPAA_Checklist/HIPAA_Compliance_Checklist.md](./07_HIPAA_Checklist/HIPAA_Compliance_Checklist.md) |
-| 08 | **Voice Demo Sample** | Three demo clips covering new patient inquiry, appointment confirmation, and concerned-patient handling | [08_Voice_Demo/Voice_Demo_Script_and_Guide.md](./08_Voice_Demo/Voice_Demo_Script_and_Guide.md) |
-| 09 | **Weekly Report Sample** | Sample weekly receptionist report with KPI scorecard and recommendations | [09_Weekly_Report/Weekly_Receptionist_Report.md](./09_Weekly_Report/Weekly_Receptionist_Report.md) |
-| 10 | **Case Study Slide Deck** | 12-slide overview of the operations kit | [10_Case_Study/Case_Study_Slide_Deck.md](./10_Case_Study/Case_Study_Slide_Deck.md) |
-| 11 | **SimplePractice Workflow** | 33 screenshots demonstrating end-to-end SimplePractice fluency, with privacy attestation | [11_SimplePractice_Workflow_Screenshots/](./11_SimplePractice_Workflow_Screenshots/) |
-| 12 | **General Medical VA Sample** | Companion portfolio for primary care, family medicine, and general practice roles | [12_General_Medical_VA_Sample/](./12_General_Medical_VA_Sample/) |
-| 13 | **[Workflow Automation Showcase](./13_Workflow_Automation_Showcase/)** | Live automation builds across Zapier, n8n, Airtable, and AI-powered business processes. Includes conditional routing, intake automation, lead qualification workflows, and verified successful workflow executions. | View Project |
+| 00 | **Knowledge Base** | Industry reference covering medspa services, patient journey, pre/post-care, and administrative guidelines | [00_Knowledge_Base/Medspa_Operations_Research.md](./00_Knowledge_Base/Medspa_Operations_Research.md) |
+| 01 | **Client Profile** | Sample practice context including team structure, services, software, brand voice, and KPIs | [01_Client_Profile/Client_Profile.md](./01_Client_Profile/Client_Profile.md) |
+| 02 | **Call Handling SOP** | Standard operating procedure for inbound and outbound patient calls | [02_Call_Handling_SOP/Call_Handling_SOP.md](./02_Call_Handling_SOP/Call_Handling_SOP.md) |
+| 03 | **Call Scripts** | Patient communication scripts, objection handling, and escalation language | [03_Call_Scripts/Call_Scripts.md](./03_Call_Scripts/Call_Scripts.md) |
+| 04 | **Patient FAQ** | Patient questions with VA-safe response frameworks | [04_Patient_FAQ/Patient_FAQ.md](./04_Patient_FAQ/Patient_FAQ.md) |
+| 05 | **Call Log Template** | Patient communication tracker with structured documentation fields and reporting | [05_Call_Log_Template/Call_Log_Template.md](./05_Call_Log_Template/Call_Log_Template.md) |
+| 06 | **Scheduling Workflow** | Appointment scheduling process, timing rules, cancellation logic, and follow-up workflow | [06_Scheduling_Workflow/Scheduling_Workflow.md](./06_Scheduling_Workflow/Scheduling_Workflow.md) |
+| 07 | **HIPAA Checklist** | HIPAA-conscious workspace, communication, device, and documentation checklist | [07_HIPAA_Checklist/HIPAA_Compliance_Checklist.md](./07_HIPAA_Checklist/HIPAA_Compliance_Checklist.md) |
+| 08 | **Voice Demo Sample** | Patient communication examples covering inquiries, confirmations, and concerns | [08_Voice_Demo/Voice_Demo_Script_and_Guide.md](./08_Voice_Demo/Voice_Demo_Script_and_Guide.md) |
+| 09 | **Weekly Report Sample** | KPI tracking, performance reporting, and operational improvement recommendations | [09_Weekly_Report/Weekly_Receptionist_Report.md](./09_Weekly_Report/Weekly_Receptionist_Report.md) |
+| 10 | **Case Study Slide Deck** | Overview of the healthcare operations portfolio system | [10_Case_Study/Case_Study_Slide_Deck.md](./10_Case_Study/Case_Study_Slide_Deck.md) |
+| 11 | **SimplePractice Workflow** | EHR workflow demonstration showing administrative processes and documentation examples | [11_SimplePractice_Workflow_Screenshots/](./11_SimplePractice_Workflow_Screenshots/) |
+| 12 | **General Medical VA Sample** | Healthcare VA workflows for primary care, specialty clinics, and medical practices | [12_General_Medical_VA_Sample/](./12_General_Medical_VA_Sample/) |
+| 13 | **Workflow Automation Showcase** | Automation projects using Zapier, n8n, Airtable, AI systems, conditional routing, and process optimization | [13_Workflow_Automation_Showcase/](./13_Workflow_Automation_Showcase/) |
+| 14 | **Medication Refill Coordination Workflow** | Medication refill support workflow covering patient requests, verification, provider routing, documentation, and follow-up | [14_Medication_Refill_Workflow/](./14_Medication_Refill_Workflow/) |
+| 15 | **Lab Order & Billing Support Workflow** | Patient support workflow covering lab coordination, payment verification, refund requests, billing escalation, and documentation | [15_Lab_Billing_Support_Workflow/](./15_Lab_Billing_Support_Workflow/) |
+
 ---
-Workflow Automation Portfolio
 
-In addition to operational front-desk and medical virtual assistant operations, I design workflow automations that reduce administrative workload, improve response times, and create scalable business systems.
+# Clinical Administrative Support Workflows
 
-**Featured Automation Projects**
-1. HerWay WIOA Eligibility Screening Workflow
+## Medication Refill Coordination Workflow
 
-Tools: n8n, Airtable
+A healthcare workflow demonstration showing how a Virtual Medical Assistant can support medication refill requests while maintaining accuracy, privacy, and proper escalation.
 
-Business Goal:
+### Workflow Includes:
+
+- Patient refill request intake
+- Patient identity verification
+- Medication information review
+- Pharmacy confirmation
+- Provider approval routing
+- Refill status tracking
+- Patient notification
+- Documentation updates
+
+### Skills Demonstrated:
+
+- Medication refill coordination
+- Patient communication
+- EHR workflow management
+- Provider task coordination
+- HIPAA-conscious documentation
+
+---
+
+# Lab Order & Billing Support Workflow
+
+A patient support workflow demonstrating how healthcare practices can manage laboratory coordination, payment questions, incomplete lab requests, and billing escalations.
+
+## Example Scenario
+
+Patient:
+
+"I paid $99 for labs but couldn't complete them. Just refund me."
+
+## Workflow Includes:
+
+- Patient identity verification
+- Review of patient record
+- Lab order status review
+- Payment confirmation
+- Billing escalation
+- Refund request documentation
+- Patient follow-up communication
+- Resolution tracking
+
+## Skills Demonstrated:
+
+- Lab coordination
+- Billing support
+- Patient service recovery
+- Administrative healthcare operations
+- Documentation accuracy
+
+---
+
+# Workflow Automation Portfolio
+
+In addition to healthcare administrative operations, I design workflow automation systems that reduce manual workload, improve response times, and create scalable processes.
+
+## Featured Automation Project
+
+## HerWay WIOA Eligibility Screening Workflow
+
+**Tools:** n8n, Airtable
+
+### Business Goal
+
 Automate applicant intake and eligibility screening for workforce development enrollment programs.
 
-**What It Does**
+### What It Does
 
-Captures applicant submissions
-Evaluates eligibility criteria automatically
-Routes records using conditional logic
-Creates records in the correct Airtable database
-Eliminates manual sorting and data entry
+- Captures applicant submissions
+- Evaluates eligibility criteria automatically
+- Routes records using conditional logic
+- Creates records in the correct database
+- Reduces manual sorting and data entry
 
-**Skills Demonstrated**
+### Skills Demonstrated
 
-Workflow Automation
-Conditional Logic
-Airtable Database Management
-Process Optimization
-Business Operations Automation
-No-Code Development
+- Workflow automation
+- Conditional logic
+- Airtable database management
+- Process optimization
+- No-code development
 
-**Outcome**
+### Outcome
 
-Reduced manual screening effort while improving data accuracy and enrollment workflow efficiency.
-
-## How I Adapt This for Your Practice
-
-When engaged by an actual practice, I follow this onboarding model:
-
-### Week 1 — Foundation
-- Sign Business Associate Agreement and complete workspace audit
-- Replace placeholder content with the practice's real team, services, hours, and software
-- Customize Call Scripts and Patient FAQ to match the practice's voice and pricing
-- Set up the Call Log in the practice's existing Google Workspace
-- Shadow the in-clinic team to learn workflow specifics
-
-### Week 2 — Live Coverage Begins
-- Phone coverage during agreed hours with senior staff on standby
-- First weekly performance report submitted
-
-### Week 3 and beyond
-- Full coverage during agreed hours
-- Ongoing weekly reporting with KPI tracking and improvement recommendations
-- Quarterly SOP review and refinement
+Reduced administrative workload while improving data accuracy and workflow efficiency.
 
 ---
 
-## Skill Stack
+# How I Adapt This for Your Practice
+
+## Week 1: Foundation
+
+- Complete onboarding and workflow review
+- Understand practice services, hours, software, and communication standards
+- Customize scripts and patient resources
+- Review existing administrative processes
+- Build documentation systems
+
+## Week 2: Live Support Begins
+
+- Support patient communication
+- Manage assigned administrative workflows
+- Document interactions accurately
+- Submit performance updates
+
+## Week 3 and Beyond
+
+- Provide consistent virtual medical assistant support
+- Track workflow performance
+- Identify process improvements
+- Maintain organized documentation
+
+---
+
+# Skill Stack
 
 | Domain | Strengths |
 |---|---|
-| **Clinical knowledge** | RN background; medical terminology fluency; recognition of adverse reactions |
-| **Patient communication** | Warm, calm phone manner; objection handling; composure on difficult calls |
-| **Practice management software** | SimplePractice; adaptable to AestheticsPro, Mindbody, Boulevard, Vagaro |
-| **Documentation** | SOAP-style notes; structured call logs; consistent data hygiene |
-| **HIPAA compliance** | 100-point self-audit; voicemail compliance; incident response |
-| **Operations** | SOP writing; workflow design; KPI tracking; weekly reporting |
-Workflow automation | Zapier · n8n · Airtable · AI-powered business systems, lead qualification workflows, conditional routing, intake automation, cross-table triggers, CRM updates, notification systems, and process optimization |
-| **Tools** | Google Workspace, Slack, RingCentral, Zoom, Canva, Notion, Whimsical |
+| Clinical Knowledge | Nursing background, medical terminology, patient care understanding, medication workflow support, recognition of adverse reactions |
+| Patient Communication | Professional phone support, patient messaging, follow-up communication, objection handling |
+| EHR Workflow | SimplePractice workflow knowledge, documentation processes, patient record organization |
+| Documentation | Structured notes, call logs, workflow tracking, data accuracy |
+| HIPAA Compliance | Privacy-conscious communication, workspace security practices, documentation standards |
+| Healthcare Operations | SOP creation, scheduling workflows, billing coordination, lab support, KPI reporting |
+| Workflow Automation | Zapier, n8n, Airtable, AI-powered workflows, conditional routing, CRM updates, intake automation |
+| Tools | Google Workspace, Slack, Zoom, Canva, Notion, RingCentral, Whimsical |
 
 ---
 
-## Disclaimers
+# Disclaimers
 
-- Glow Aesthetics & MedSpa is a fictional practice. All names, contact details, and patient information in this portfolio are illustrative.
-- This portfolio reflects general industry best practices. Each real practice should adapt these documents to its own Notice of Privacy Practices, Business Associate Agreement, and clinical protocols.
-- The HIPAA Checklist (Document 07) does not constitute legal advice. Real-world HIPAA compliance should be confirmed with a qualified HIPAA officer or attorney.
-- All clinical guidance is general and not a substitute for provider judgment.
-
----
-
-## Contact
-
-📧 **Email:** [ajiiprincessgoodness@gmail.com](mailto:ajiiprincessgoodness@gmail.com)
-💼 **LinkedIn:** [linkedin.com/in/goodness-ajii](https://www.linkedin.com/in/goodness-ajii)
-🔗 **Upwork:** [Goodness Ajii on Upwork](https://www.upwork.com/freelancers/~0127a740e424a99a93)
-🎧 **Voice Demo:** *coming soon*
-
-*Available for medspa, cardiology, nephrology, dermatology, and medical practices.*
+- Glow Aesthetics & MedSpa is a fictional practice created for portfolio demonstration.
+- All patient information, names, pricing, and scenarios are illustrative.
+- These workflows demonstrate administrative healthcare processes and do not represent access to real patient records.
+- HIPAA compliance requirements should always be adapted to each organization's policies and legal guidance.
 
 ---
 
-**Goodness Ajii, RN**
-*Certified Medical Virtual Assistant*
+# Contact
+
+Email: ajiiprincessgoodness@gmail.com
+
+LinkedIn:
+https://www.linkedin.com/in/goodness-ajii
+
+Upwork:
+https://www.upwork.com/freelancers/~0127a740e424a99a93
+
+Voice Demo:
+Coming soon
+
+---
+
+Available for:
+
+- Medspa practices
+- Primary care clinics
+- Telehealth organizations
+- Specialty medical practices
+- Healthcare teams needing patient communication, EHR support, administrative coordination, and workflow optimization
+
+---
+
+**Goodness Ajii, RN**  
+Certified Medical Virtual Assistant
