@@ -200,7 +200,7 @@ Reduced administrative workload while improving data accuracy and workflow effic
 
 # Contact
 
-Email: ajiiprincessgoodness@gmail.com
+Email: hello@goodnessajii.com
 
 LinkedIn:
 https://www.linkedin.com/in/goodness-ajii
